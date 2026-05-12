@@ -6,7 +6,8 @@ static char* asciiart = "\n"
 	"   \___|_|\_\__, |\__,_|___|_____|\___/ \___/\n"
 	"               |_|    |_____|\n\n";
 static char* asciitail =
-	"              ekqd_206 XeLL - Xenon Linux Loader RELOADED\n\n";
-  "              Special Corona & Winchester Compatible XeLL version\n\n";
-	"              Make it faster by making it sleep...\n\n";
-  "              Make it faster by making it consume more power...\n\n";
+	"              Powered by ekqd_206 & KARCAINE's Custom XeLL - Xenon Linux Loader, got RELOADED :D\n";
+    "              Special Corona & Winchester Compatible XeLL version\n";
+    "Copyright (C) 2001-2010 Microsoft Corporation. All rights reserved.\n";
+    "               Make it faster by making it sleep...\n";
+    "               Make it faster by making it consume more power...\n\n";

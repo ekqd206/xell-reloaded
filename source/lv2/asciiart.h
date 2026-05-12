@@ -10,4 +10,6 @@ static char* asciitail =
     "              Special Corona & Winchester Compatible XeLL version\n";
     "Copyright (C) 2001-2010 Microsoft Corporation. All rights reserved.\n";
     "               Make it faster by making it sleep...\n";
-    "               Make it faster by making it consume more power...\n\n";
+    "               Make it faster by making it consume more power...\n";
+    "               Make it faster by awaking the other cores...\n";
+    "               Fine, they all came back...\n\n";

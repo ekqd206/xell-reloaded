@@ -8,7 +8,7 @@ static char* asciiart = "\n"
 static char* asciitail =
 	"              Powered by ekqd_206 & KARCAINE's Custom XeLL - Xenon Linux Loader, got RELOADED :D\n";
     "              Special Corona & Winchester Compatible XeLL version\n";
-    "Copyright (C) 2001-2010 Microsoft Corporation. All rights reserved.\n";
+    " Copyright (C) 2001-2010 Microsoft Corporation. All rights reserved.\n";
     "               Make it faster by making it sleep...\n";
     "               Make it faster by making it consume more power...\n";
     "               Make it faster by awaking the other cores...\n";
